@@ -21,33 +21,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
-<br>
-- **Languages**:
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-    ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-    ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white)
+| | |
+|----------|--------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-03060d?style=for-the-badge&logo=react)&nbsp; ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-03060d?style=for-the-badge&logo=tailwind-css)&nbsp; ![ShadCN UI](https://img.shields.io/badge/ShadCN/UI-03060d?style=for-the-badge&logo=shadcn/ui) |
+| **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-03060d?style=for-the-badge&logo=nodedotjs)&nbsp; ![Express](https://img.shields.io/badge/express-03060d?style=for-the-badge&logo=express)&nbsp; ![Passport.js](https://img.shields.io/badge/Passport.js-03060d?style=for-the-badge&logo=passport) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-03060d?style=for-the-badge&logo=mongodb)&nbsp; ![Mongoose](https://img.shields.io/badge/Mongoose-03060d.svg?style=for-the-badge&logo=mongoose)&nbsp; ![Appwrite](https://img.shields.io/badge/-Appwrite-03060d?style=for-the-badge&logo=appwrite)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff) |
+| **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-03060d?style=for-the-badge&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-03060d?style=for-the-badge&logo=github)&nbsp; ![GitHub Actions](https://img.shields.io/badge/github%20actions-03060d?style=for-the-badge&logo=githubactions) |
+| **Deployment & Hosting** | ![Vercel](https://img.shields.io/badge/vercel-03060d?style=for-the-badge&logo=vercel)&nbsp; ![Netlify](https://img.shields.io/badge/netlify-03060d?style=for-the-badge&logo=netlify)&nbsp; ![Glitch](https://img.shields.io/badge/glitch-03060d?style=for-the-badge&logo=glitch)&nbsp; ![GithubPages](https://img.shields.io/badge/github%20pages-03060d?style=for-the-badge&logo=github) |
+| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-03060d?style=for-the-badge)&nbsp; ![Postman](https://img.shields.io/badge/-Postman-03060d?style=for-the-badge&logo=postman)&nbsp; ![NPM](https://img.shields.io/badge/NPM-03060d?style=for-the-badge&logo=npm)&nbsp; ![Vite](https://img.shields.io/badge/vite-03060d?style=for-the-badge&logo=vite)&nbsp; ![Webpack](https://img.shields.io/badge/webpack-03060d?style=for-the-badge&logo=webpack) |
+| **Design Tools** | ![Figma](https://img.shields.io/badge/figma-03060d?style=for-the-badge&logo=figma)&nbsp; ![Dribbble](https://img.shields.io/badge/Dribbble-03060d?style=for-the-badge&logo=dribbble)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-03060d?style=for-the-badge&logo=canva) |
+| **Operating Systems & Software** | ![Linux](https://img.shields.io/badge/-Linux-03060d?style=for-the-badge&logo=linux)&nbsp; ![Archcraft](https://img.shields.io/badge/Archcraft-03060d?style=for-the-badge&logo=archlinux)&nbsp; ![LibreOffice](https://img.shields.io/badge/LibreOffice-03060d?style=for-the-badge&logo=LibreOffice)&nbsp; ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-03060d?style=for-the-badge&logo=GNU%20Bash&logoColor=fff)&nbsp; |
+| **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-03060d?style=for-the-badge&logo=Firefox)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-03060d?style=for-the-badge&logo=GoogleChrome) |
+| **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-03060d?style=for-the-badge&logo=openai)&nbsp; ![Claude](https://img.shields.io/badge/Anthropic's%20Claude-03060d?style=for-the-badge&logo=anthropic) |
+| | |
 
-<br>
-- **Front-End Development**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<br>
 <br>
 <br>
 
