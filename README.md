@@ -8,8 +8,8 @@
 
 
 <br>
-	<div class="tenor-gif-embed" data-postid="17012151" data-share-method="host" data-aspect-ratio="1.18519" data-width="100%"><a href="https://tenor.com/view/nothing-xiaohuo-laptop-pc-working-gif-17012151">Nothing Xiaohuo Sticker</a>from <a href="https://tenor.com/search/nothing-stickers">Nothing Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-## <picture><img src = "https://tenor.com/es/view/nothing-xiaohuo-laptop-pc-working-gif-17012151" width = 50px></picture> **About me**
+
+## <picture><img src = "[https://tenor.com/es/view/nothing-xiaohuo-laptop-pc-working-gif-17012151](https://media.tenor.com/BteVrNkBuxoAAAAi/nothing-xiaohuo.gif)" width = 50px></picture> **About me**
 
 <br>
 
