@@ -23,10 +23,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 | | |
 |----------|--------|
-| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-03060d?style=for-the-badge&logo=react)&nbsp; |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-03060d?style=for-the-badge&logo=react)&nbsp; ![Angular](https://img.shields.io/badge/-Angular-03060d?style=for-the-badge&logo=angular) |
 | **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-03060d?style=for-the-badge&logo=nodedotjs)&nbsp; |
 | **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-03060d?style=for-the-badge&logo=mongodb)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp; ![SQL Server](https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| **Languages** | ![C](https://img.shields.io/badge/-C-03060d?style=for-the-badge&logo=c&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/-C++-03060d?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/-C%23-03060d?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-03060d?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-03060d?style=for-the-badge&logo=java&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/-C-03060d?style=for-the-badge&logo=c&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/-C++-03060d?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/-C%23-03060d?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Game Controller](https://img.shields.io/badge/-Game%20Controller-03060d?style=for-the-badge&logo=gamecontroller&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-03060d?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-03060d?style=for-the-badge&logo=java&logoColor=white&labelColor=black&logoColor=white&color=red&logo=java&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-03060d?style=for-the-badge&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-03060d?style=for-the-badge&logo=github)&nbsp; |
 | **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-03060d?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![SoapUI](https://img.shields.io/badge/SoapUI-03060d?style=for-the-badge&logo=soapui&logoColor=white) |
 | **Design Tools** | ![Figma](https://img.shields.io/badge/figma-03060d?style=for-the-badge&logo=figma)&nbsp; ![Dribbble](https://img.shields.io/badge/Dribbble-03060d?style=for-the-badge&logo=dribbble)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-03060d?style=for-the-badge&logo=canva) |
@@ -38,6 +38,7 @@
 
 <br>
 <br>
+
 
 
 -----
