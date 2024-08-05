@@ -8,11 +8,8 @@
 
 
 <br>
-
-
-
 	
-## <picture><img src="https://media.giphy.com/media/3o7aD2c0O7F2lhOaVm/giphy.gif" width="50px"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/3o6ozsY1FE8cD5gOGs/giphy.gif" width="50px"></picture> **About me**
 
 <br>
 
