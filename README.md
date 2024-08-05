@@ -25,9 +25,9 @@
 |----------|--------|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-03060d?style=for-the-badge&logo=react)&nbsp; |
 | **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-03060d?style=for-the-badge&logo=nodedotjs)&nbsp; |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-03060d?style=for-the-badge&logo=mongodb)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp; ![SQL Server](https://img.shields.io/badge/-SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-03060d?style=for-the-badge&logo=mongodb)&nbsp; ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp; ![SQL Server](https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
 | **Version Control & CI/CD** | ![Git](https://img.shields.io/badge/-Git-03060d?style=for-the-badge&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-03060d?style=for-the-badge&logo=github)&nbsp; |
-| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-03060d?style=for-the-badge)&nbsp; ![SoapUI](https://img.shields.io/badge/SoapUI-03060d?style=for-the-badge&logo=soapui) |
+| **Development Tools** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-03060d?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp; ![SoapUI](https://img.shields.io/badge/SoapUI-03060d?style=for-the-badge&logo=soapui&logoColor=white) |
 | **Design Tools** | ![Figma](https://img.shields.io/badge/figma-03060d?style=for-the-badge&logo=figma)&nbsp; ![Dribbble](https://img.shields.io/badge/Dribbble-03060d?style=for-the-badge&logo=dribbble)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-03060d?style=for-the-badge&logo=canva) |
 | **Operating Systems & Software** | ![Linux](https://img.shields.io/badge/-Linux-03060d?style=for-the-badge&logo=linux)&nbsp; ![Archcraft](https://img.shields.io/badge/Archcraft-03060d?style=for-the-badge&logo=archlinux)&nbsp; ![GNU BASH](https://img.shields.io/badge/GNU%20Bash-03060d?style=for-the-badge&logo=GNU%20Bash&logoColor=fff)&nbsp; |
 | **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-03060d?style=for-the-badge&logo=Firefox)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-03060d?style=for-the-badge&logo=GoogleChrome)&nbsp; ![Brave](https://img.shields.io/badge/Brave-03060d?style=for-the-badge&logo=brave) |
@@ -36,6 +36,7 @@
 
 <br>
 <br>
+
 
 -----
 
