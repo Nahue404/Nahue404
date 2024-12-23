@@ -14,7 +14,7 @@
 
 - A passionate self-taught software developer.
 - Video game website [link](https://nahuue.itch.io/)
-- I am currently open to an internship or a new job opportunity; this is [my resume]()
+- I am currently open to an internship or a new job opportunity; this is [my resume](https://github.com/Nahue404/Nahue404/blob/main/CV-Nahuel-Riveros.pdf)
 
 <br><br>
 
