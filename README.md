@@ -24,7 +24,7 @@
 | | |
 |----------|--------|
 | **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-03060d?style=for-the-badge&logo=html5)&nbsp; ![CSS3](https://img.shields.io/badge/-CSS3-03060d?style=for-the-badge&logo=css3)&nbsp; ![React](https://img.shields.io/badge/-React-03060d?style=for-the-badge&logo=react)&nbsp; ![Angular](https://img.shields.io/badge/-Angular-03060d?style=for-the-badge&logo=angular) |
-| **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; ![Node.js](https://img.shields.io/badge/node.js-03060d?style=for-the-badge&logo=nodedotjs)&nbsp; |
+| **Backend** | ![JavaScript](https://img.shields.io/badge/Javascript-03060d?style=for-the-badge&logo=javascript)&nbsp; |
 | **Database** | ![MySQL](https://img.shields.io/badge/mysql-03060d.svg?style=for-the-badge&logo=mysql&logoColor=fff)&nbsp; ![SQL Server](https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
 | **Languages** | ![C](https://img.shields.io/badge/-C-03060d?style=for-the-badge&logo=c&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/-C++-03060d?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp; ![C#](https://img.shields.io/badge/-C%23-03060d?style=for-the-badge&logo=csharp&logoColor=white)&nbsp; ![Python](https://img.shields.io/badge/Python-03060d?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Java](https://img.shields.io/badge/Java-03060d?style=for-the-badge&logo=java&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/-Git-03060d?style=for-the-badge&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-03060d?style=for-the-badge&logo=github)&nbsp; |
