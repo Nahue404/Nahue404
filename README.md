@@ -8,7 +8,7 @@
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e477dodvbf4tf2tisbs3sebab3h0wq0fw9n29zksmzt&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50px"></picture> **About me**
+## <picture><img src="https://media.giphy.com/media/kXixecGzl2gBlpO4SQ/giphy.gif?cid=ecf05e477dodvbf4tf2tisbs3sebab3h0wq0fw9n29zksmzt&ep=v1_stickers_search&rid=giphy.gif&ct=s](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50px"></picture> **About me**
 
 <br>
 
