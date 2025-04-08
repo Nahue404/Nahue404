@@ -32,7 +32,6 @@
 | **Design Tools** | ![Figma](https://img.shields.io/badge/figma-03060d?style=for-the-badge&logo=figma)&nbsp; ![Canva](https://img.shields.io/badge/-Canva-03060d?style=for-the-badge&logo=canva) |
 | **Operating Systems & Software** | ![Linux](https://img.shields.io/badge/-Linux-03060d?style=for-the-badge&logo=linux)&nbsp; ![Windows](https://img.shields.io/badge/Windows-03060d?style=for-the-badge&logo=windows)
 | **Browsers** | ![Firefox](https://img.shields.io/badge/Firefox-03060d?style=for-the-badge&logo=Firefox)&nbsp; ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-03060d?style=for-the-badge&logo=GoogleChrome)&nbsp; ![Brave](https://img.shields.io/badge/Brave-03060d?style=for-the-badge&logo=brave) |
-| **AI Tools** | ![ChatGPT](https://img.shields.io/badge/chatGPT-03060d?style=for-the-badge&logo=openai)&nbsp; ![Claude](https://img.shields.io/badge/Anthropic's%20Claude-03060d?style=for-the-badge&logo=anthropic) |
 | **Game Development** | ![Unity](https://img.shields.io/badge/Unity-03060d?style=for-the-badge&logo=unity&logoColor=white) |
 | | |
 
