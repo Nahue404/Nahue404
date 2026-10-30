@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="860" height="200">
+  <rect width="860" height="200" rx="10" fill="#03060d" stroke="#1d2433"/>
+  <text x="24" y="36" font-family="Consolas, Menlo, monospace" font-size="15" fill="#d4d4d4"><tspan fill="#39ff14">nahuel@dev</tspan>:<tspan fill="#29d3ff">~</tspan>$ cat languages.txt</text>
+  <clipPath id="b"><rect x="24" y="52" width="812" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#b)">
+    <rect x="24.0" y="52" width="312.7" height="12" fill="#29d3ff"/>
+    <rect x="336.2" y="52" width="126.2" height="12" fill="#3fb950"/>
+    <rect x="461.9" y="52" width="90.1" height="12" fill="#8b93ff"/>
+    <rect x="551.5" y="52" width="84.1" height="12" fill="#ff9f43"/>
+    <rect x="635.1" y="52" width="77.0" height="12" fill="#3b82f6"/>
+    <rect x="711.6" y="52" width="59.7" height="12" fill="#f7df1e"/>
+    <rect x="770.8" y="52" width="54.0" height="12" fill="#ff6b6b"/>
+    <rect x="824.4" y="52" width="12.1" height="12" fill="#a0a0a0"/>
+  </g>
+  <circle cx="30" cy="93" r="5" fill="#29d3ff"/>
+  <text x="44" y="98" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">Dart<tspan fill="#7d8590"> 38.4%</tspan></text>
+  <circle cx="30" cy="119" r="5" fill="#3fb950"/>
+  <text x="44" y="124" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">Python<tspan fill="#7d8590"> 15.5%</tspan></text>
+  <circle cx="30" cy="145" r="5" fill="#8b93ff"/>
+  <text x="44" y="150" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">PHP<tspan fill="#7d8590"> 11.0%</tspan></text>
+  <circle cx="30" cy="171" r="5" fill="#ff9f43"/>
+  <text x="44" y="176" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">SQL<tspan fill="#7d8590"> 10.3%</tspan></text>
+  <circle cx="450" cy="93" r="5" fill="#3b82f6"/>
+  <text x="464" y="98" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">TypeScript<tspan fill="#7d8590"> 9.4%</tspan></text>
+  <circle cx="450" cy="119" r="5" fill="#f7df1e"/>
+  <text x="464" y="124" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">JavaScript<tspan fill="#7d8590"> 7.3%</tspan></text>
+  <circle cx="450" cy="145" r="5" fill="#ff6b6b"/>
+  <text x="464" y="150" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">Java<tspan fill="#7d8590"> 6.6%</tspan></text>
+  <circle cx="450" cy="171" r="5" fill="#a0a0a0"/>
+  <text x="464" y="176" font-family="Consolas, Menlo, monospace" font-size="14" fill="#d4d4d4">C<tspan fill="#7d8590"> 1.4%</tspan></text>
+</svg>
