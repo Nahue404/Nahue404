@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img src="https://img.shields.io/badge/MySQL-03060d?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-03060d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/SQLite-03060d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"></td>
+    <td><img src="https://img.shields.io/badge/MySQL-03060d?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-03060d?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/SQLite-03060d?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/SQL%20Server-03060d?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"> <img src="https://img.shields.io/badge/Oracle-03060d?style=for-the-badge" alt="Oracle"></td>
   </tr>
   <tr>
     <td><b>Also</b></td>
