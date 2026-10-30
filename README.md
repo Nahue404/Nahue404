@@ -57,6 +57,7 @@ Most of these are live sites for places in San Antonio, Paraguay. The repos are 
 | [Óptica San Antonio](https://optica-san-antonio-six.vercel.app) | Website and product catalog for an optician's shop. | Django, PostgreSQL, Cloudinary |
 | [San Antonio de Padua Parish](https://parroquiasap.vercel.app) | Parish website with an admin panel for announcements, services, schedules, gallery and users. | Flask, SQLAlchemy, MySQL |
 | [Cantoral SAP](https://cantoralsanantoniodepadua.vercel.app) | The parish songbook: ChordPro chords, live transposition, guitar and piano diagrams, PDF and Word export. | Flask, SQLAlchemy, MySQL |
+| JN Transporte | Internal system for a trucking company: drivers, trips, fuel and advance deductions, with the diesel price pulled from Petropar every 6 hours and Excel export. | Django, PostgreSQL |
 | [Warlon's](https://nahue404.github.io/warlons-demo/) | Digital menu demo for a restaurant, with delivery links. | HTML, CSS, GSAP |
 | [Vehicle Detector](https://github.com/Nahue404/Detector_de_vehiculos) | Detects vehicles in video with computer vision. | Python, OpenCV |
 
